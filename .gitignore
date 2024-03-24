@@ -1,0 +1,11 @@
+# CMake
+cmake-build-*/
+
+# IntelliJ
+out/
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
